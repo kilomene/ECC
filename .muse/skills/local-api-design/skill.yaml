@@ -1,0 +1,6 @@
+name: local-api-design
+title: API Design
+description: Design consistent REST APIs for his Cloudflare Workers backends (naming, status codes, envelopes, pagination, versioning) when adding or reviewing REST endpoints.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

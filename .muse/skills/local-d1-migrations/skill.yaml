@@ -1,0 +1,6 @@
+name: local-d1-migrations
+title: D1 Migrations
+description: Apply safe, forward-only schema migrations to Cloudflare D1 with wrangler, including D1-specific rewrites of Postgres patterns, whenever changing database schema.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

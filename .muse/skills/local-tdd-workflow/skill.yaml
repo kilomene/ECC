@@ -1,0 +1,6 @@
+name: "local-tdd-workflow"
+title: "Test-Driven Development Workflow"
+description: "RED/GREEN/refactor cycle with 80%+ coverage, resolved test runners, git checkpoint commits, and untrusted plan-file handling, for use when writing a new feature, fixing a bug, or refactoring."
+category: "Work and knowledge"
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

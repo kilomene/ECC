@@ -1,0 +1,6 @@
+name: local-watcher-loops
+title: Watcher Loops
+description: Run autonomous tick-based loops with idempotent claim-do-fulfill cycles, persisted cursors, heartbeat stall detection, and freeze-on-failure recovery, used when designing, repairing, or operating his cron and supervisor loops.
+category: Work and knowledge
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

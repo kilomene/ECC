@@ -1,0 +1,6 @@
+name: "local-apk-build-discipline"
+title: "APK Build Discipline"
+description: "Build-test discipline for Android APKs: announce the build path, build and install locally, watch it work, sign cleanly, and push only when green."
+category: "Work and knowledge"
+include_in_prompt: true
+derived_from: "original"

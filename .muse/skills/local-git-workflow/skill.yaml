@@ -1,0 +1,6 @@
+name: local-git-workflow
+title: Git Workflow
+description: Branch-per-change Git flow with Conventional Commits, test-on-your-own-machine push discipline, and tagged signed-APK releases, used whenever Osh's code moves from a working tree to GitHub.
+category: Work and knowledge
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

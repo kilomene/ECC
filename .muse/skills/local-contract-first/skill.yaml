@@ -1,0 +1,6 @@
+name: local-contract-first
+title: Contract First Collaboration
+description: Coordinate his Nova Workers backend and Flutter app through one authoritative contract artifact so parallel development avoids field drift, whenever a backend-to-app boundary evolves on both sides.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

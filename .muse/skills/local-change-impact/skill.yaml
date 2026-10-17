@@ -1,0 +1,6 @@
+name: local-change-impact
+title: Change Impact Analysis
+description: Read-only blast-radius check run before editing and a scope audit run after, used for cross-module, data, interface, or high-risk changes where the diff must be verified against the declared scope.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

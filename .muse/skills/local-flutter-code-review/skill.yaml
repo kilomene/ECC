@@ -1,0 +1,6 @@
+name: local-flutter-code-review
+title: Flutter/Dart Code Review
+description: Review Flutter and Dart code against a concrete checklist of project health, language pitfalls, widget, state, performance, accessibility, and security rules, with executable gates and approved patterns; use after writing or modifying Dart code.
+category: "Work and knowledge"
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

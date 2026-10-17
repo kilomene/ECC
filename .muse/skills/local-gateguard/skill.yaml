@@ -1,0 +1,6 @@
+name: local-gateguard
+title: GateGuard Fact Check
+description: Mandatory pre-edit fact gathering before the first write to any file, used when editing shared, data-touching, or public-surface code where guessing instead of investigating causes failures.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

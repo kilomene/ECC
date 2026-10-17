@@ -1,0 +1,6 @@
+name: local-search-first
+title: Research Before You Code
+description: Search package registries, GitHub, the web, and his own repos for existing solutions before writing code, then adopt, extend, or build on the findings; use when starting a feature, adding a dependency, or about to write a utility that may already exist.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

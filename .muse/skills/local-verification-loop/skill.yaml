@@ -1,0 +1,6 @@
+name: "local-verification-loop"
+title: "Verification Loop"
+description: "Six-phase check (build, typecheck, lint, tests with coverage, security grep, diff review) in fixed order after any code change, stopping at the first hard failure, for use after a feature or refactor, before a PR, or when quality gates must pass."
+category: "Work and knowledge"
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

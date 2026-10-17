@@ -1,0 +1,6 @@
+name: local-vuln-audit
+title: Vulnerability Audit
+description: Pre-release exploitability audit of his own public backends that proves user-controlled input reaches a real sink before claiming a vulnerability.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

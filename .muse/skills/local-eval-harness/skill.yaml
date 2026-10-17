@@ -1,0 +1,6 @@
+name: local-eval-harness
+title: Eval Harness for Loops and Bots
+description: Define capability and regression evals before changing his agent loops and trading bots, grade behavior deterministically or by rubric, and track pass@k and pass^k reliability; use before any code change to a loop or bot.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

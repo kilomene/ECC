@@ -1,0 +1,6 @@
+name: local-api-connector-builder
+title: API Connector Builder
+description: Add a new provider or API integration to one of his repos by matching the existing in-repo connector pattern exactly, whenever wiring up another exchange, payment, or notification provider.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

@@ -1,0 +1,6 @@
+name: local-adr
+title: Record Architecture Decisions
+description: Record significant architecture decisions as numbered ADR files in the project's own docs/adr/ with context, alternatives, and consequences; use when a durable choice is made or a "why did we choose X" question comes up.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

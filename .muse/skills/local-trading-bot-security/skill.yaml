@@ -1,0 +1,6 @@
+name: local-trading-bot-security
+title: Trading Bot Security
+description: Layered security patterns for his trading bots covering prompt-injection guards, spend limits, pre-flight order validation, circuit breakers, key isolation, and a file-based kill switch.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

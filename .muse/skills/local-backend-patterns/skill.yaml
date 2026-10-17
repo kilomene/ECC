@@ -1,0 +1,6 @@
+name: local-backend-patterns
+title: Backend Patterns
+description: Structure his Cloudflare Workers (Hono) and Python (FastAPI) backends in HTTP, service, and repository layers with safe middleware, query, caching, and job patterns, whenever building or reviewing backend code.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

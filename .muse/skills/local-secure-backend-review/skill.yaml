@@ -1,0 +1,6 @@
+name: local-secure-backend-review
+title: Secure Backend Review
+description: Runs a FAIL/PASS security audit with a secret scan, input validation, and auth checks on every route before any public push.
+category: Work and knowledge
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

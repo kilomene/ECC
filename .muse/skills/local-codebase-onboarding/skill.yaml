@@ -1,0 +1,6 @@
+name: local-codebase-onboarding
+title: Onboard to a New Codebase
+description: Ramp onto an unfamiliar repo through four phases (reconnaissance, architecture mapping, convention detection, project note) using parallel read-only commands; use when opening a repo you have not worked in before or before writing code in a mid-session clone.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

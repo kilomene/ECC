@@ -1,0 +1,6 @@
+name: local-docs-lookup
+title: Look Up the Official Docs First
+description: "Never answer a library or framework API question from training data: pin the library identity and version, fetch the official docs with a hard cap of 3 lookups, and state the uncertainty instead of guessing when the docs do not settle it."
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

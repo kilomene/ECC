@@ -1,0 +1,6 @@
+name: "local-github-push-hygiene"
+title: "GitHub Push Hygiene"
+description: "Safe push and recovery discipline for GitHub repos: absolute repo-root paths, mass-delete abort guards, remote tree diff verification, and ref-restore recovery."
+category: "Work and knowledge"
+include_in_prompt: true
+derived_from: "original"

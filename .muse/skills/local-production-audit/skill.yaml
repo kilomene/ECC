@@ -1,0 +1,6 @@
+name: "local-production-audit"
+title: "Production Audit"
+description: "Production-readiness audit from cheap local evidence and risk lenses ending in a scored ship or block call, for use when asked if an app is ready to ship, what breaks in prod, or after a risky merge."
+category: "Work and knowledge"
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

@@ -1,0 +1,6 @@
+name: local-error-handling
+title: Error Handling
+description: Apply typed error discipline in his TypeScript and Python code with one API error handler, Result returns, backoff retries, and hard stops on rate limits, whenever designing errors, retries, or failure messages.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

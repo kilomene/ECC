@@ -1,0 +1,6 @@
+name: local-python-patterns
+title: Python Patterns for His Scripts
+description: Apply a compact checkable set of Python idioms to his watcher loops, push scripts, supervisor scripts, and CLIs, including his standing lessons on pip installs, secrets handling, and the unittest descriptor trap.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

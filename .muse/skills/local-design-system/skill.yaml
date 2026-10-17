@@ -1,0 +1,6 @@
+name: local-design-system
+title: Design System Generation, Audit, and AI-Slop Detection
+description: Generate design tokens from an existing UI, audit a UI on a 10-dimension scorecard, or flag generic AI-design tics; use for HTML/CSS/JS WebViews and Flutter theming before a UI ships.
+category: "Work and knowledge"
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

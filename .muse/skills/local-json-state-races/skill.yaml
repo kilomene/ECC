@@ -1,0 +1,6 @@
+name: "local-json-state-races"
+title: "JSON State Race Discipline"
+description: "Discipline for file-based agent state: race-safe writes, phantom-record recovery, stable-identity dedupe guards, and pattern-matching hygiene."
+category: "Work and knowledge"
+include_in_prompt: false
+derived_from: "original"

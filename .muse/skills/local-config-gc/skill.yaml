@@ -1,0 +1,6 @@
+name: local-config-gc
+title: Garbage Collect Your Config
+description: Periodically sweep append-only config (custom skills, memory files, cron jobs, tracked items, workspace caches) for stale or orphaned items and soft-delete them one by one with an undo path; use after big skill installs and on a roughly 30-day review.
+category: Work and knowledge
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"

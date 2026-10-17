@@ -1,0 +1,6 @@
+name: "local-browser-qa"
+title: "Browser QA for Deployed URLs"
+description: "Four-phase QA pass (smoke, interaction, visual regression, accessibility) on a deployed URL ending in a SHIP or DO NOT SHIP verdict, for use after deploying a feature, before shipping frontend changes, or when reviewing a frontend PR."
+category: "Work and knowledge"
+include_in_prompt: true
+derived_from: "affaan-m/ECC (MIT)"

@@ -1,0 +1,6 @@
+name: "local-e2e-testing"
+title: "E2E Testing with Playwright"
+description: "Stable Playwright suite layout with page objects, explicit waits, CI-ready config, and flaky-test quarantine, for use when codifying user journeys into automated end-to-end tests that must hold on every run."
+category: "Work and knowledge"
+include_in_prompt: false
+derived_from: "affaan-m/ECC (MIT)"
